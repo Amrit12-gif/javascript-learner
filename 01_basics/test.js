@@ -1,14 +1,12 @@
-const accountId = 12212
-let name = "tommy"
-var password = "12er"
-let email = "@gmail.com"
-let Country;
+// console.log(3+3); console.log( typeof "hammer")
 
 
-// accountId = "121212121"
-name = "mom"
-password = "fdsfdsioi3"
-email = "jok@gmail.com"
-Country = "bad"
-// console.log(accountId);
-console.table( typeof[accountId, name, password, email, Country])
+
+let name = "ham"
+let age = 1323
+let isLoggedIn = true
+let x; // undefined
+let city = null   // nulll
+
+console.log(typeof city)
+// console.table([name,age, isLoggedIn, x, city])
